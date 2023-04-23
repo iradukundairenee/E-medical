@@ -1,0 +1,12 @@
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/controllers/Authenticate.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/helpers/ValidatePassword.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/enums/UserRole.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/services/PhysicianService.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/services/PharmacistService.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/controllers/Register.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/BaseClasses/UserMethods.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/controllers/physician.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/services/PatientService.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/models/User.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/HelloServlet.java
+/home/irenee/Desktop/ehospital-app/src/main/java/com/example/ehospital/database/TemporaryDatabase.java
