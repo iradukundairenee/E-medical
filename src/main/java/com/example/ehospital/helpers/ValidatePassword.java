@@ -1,4 +1,7 @@
 package com.example.ehospital.helpers;
+import com.auth0.jwt.JWT;
+import com.auth0.jwt.algorithms.Algorithm;
+
 
 public class ValidatePassword {
     private static final ValidatePassword instance = new ValidatePassword();
@@ -20,3 +23,5 @@ public class ValidatePassword {
     
     
 }
+
+

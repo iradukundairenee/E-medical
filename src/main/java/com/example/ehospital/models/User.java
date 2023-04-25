@@ -12,6 +12,7 @@ public class User {
     private int age;
     private String userRole;
     private String password;
+    private boolean accessGranted;
 
     public User() {
     }
@@ -59,10 +60,10 @@ public class User {
         this.gender = gender;
     }
 
-    public int getAge() {
-        return age;
-    }
-    
+   public int getAge() {
+    return age;
+}
+
 
     public void setAge(int age) {
         this.age = age;
@@ -84,6 +85,14 @@ public class User {
         this.password = password;
     }
 
+
+    public boolean isAccessGranted() {
+        return accessGranted;
+    }
+
+    public void setAccessGranted(boolean accessGranted) {
+        this.accessGranted = accessGranted;
+    }
 }
     
 
